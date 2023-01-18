@@ -1,3 +1,15 @@
+# LIVE DEMO :-  <a href="https://nxttendfilternk.ccbp.tech">Nxt Trendz Sorting Products</a>
+### Login Details for non-Prime Users
+Username: rahul </br>
+Password: rahul@2021
+
+### Login Details for Prime Users
+Username: raja
+Password: raja@2021
+
+
+
+
 In this project, let's build a **Nxt Trendz - Products Filters Group** app by applying the concepts we have learned till now.
 
 ### Refer to the images below:

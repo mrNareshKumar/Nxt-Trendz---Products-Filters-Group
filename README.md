@@ -1,10 +1,10 @@
 # LIVE DEMO :-  <a href="https://nxttendfilternk.ccbp.tech">Nxt Trendz Sorting Products</a>
-### Login Details for non-Prime Users
+### Login Details for Prime User
 Username: rahul </br>
 Password: rahul@2021
 
-### Login Details for Prime Users
-Username: raja
+### Login Details for non-Prime User
+Username: raja </br>
 Password: raja@2021
 
 
